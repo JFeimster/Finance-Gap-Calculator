@@ -1,0 +1,6 @@
+{
+  "name": "Premium Finance Gap Calculator",
+  "description": "A commercial-insurance renewal rescue calculator that identifies the immediate premium down-payment gap and generates a clean referral path.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
